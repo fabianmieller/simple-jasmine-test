@@ -1,0 +1,14 @@
+{
+    "name": "jasmine-test",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "description": "Simple Jasmine Test",
+    "author": "Fabian Mieller <kontakt@fabianmieller.de>",
+    "devDependencies": {
+        "jasmine": "^3.2.0"
+    },
+    "scripts": {
+        "test": "jasmine"
+    }
+}
